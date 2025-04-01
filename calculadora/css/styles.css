@@ -1,0 +1,51 @@
+.container-btn {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 120px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.button {
+    background-color: gray;
+    color: white;
+    width:25px;
+    height: 25px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 3px;
+}
+
+
+.screen {
+    display: flex;
+    justify-content:end;
+    background-color: lightgreen;
+    border: 1px solid black;
+    border-radius: 3px;
+    width: 115px;
+    height: 20px;
+    padding: 2px;
+}
+
+
+.container-cal {
+    background-color: darkslategray;
+    border: 1px solid black;
+    border-radius: 3px;
+    width: 120px;
+    padding: 5px;
+}
+
+.history-container {
+    color: white;
+    background-color: darkslategray;
+    border: 1px solid black;
+    border-radius: 3px;
+    width: 120px;
+    height: 100px;
+    padding: 5px;
+}
